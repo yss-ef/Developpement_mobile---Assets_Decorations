@@ -1,4 +1,4 @@
-# Rapport de TP Numéro 2 - Gestion des Assets et Décoration en Flutter
+# Rapport de TP 2 - Gestion des Assets et Décoration en Flutter
 
 ## Introduction
 Ce rapport décrit l'implémentation d'une interface utilisateur Flutter, `Mundia Cars`, en se concentrant sur l'utilisation des assets (images et polices) et des techniques de décoration pour créer un design attractif et réactif. L'application présente une vitrine de voitures avec des informations descriptives.
